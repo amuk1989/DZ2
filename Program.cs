@@ -10,6 +10,7 @@ namespace DZ2
     {
         static void Main(string[] args)
         {
+
         }
     }
 }
